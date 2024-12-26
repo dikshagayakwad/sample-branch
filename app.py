@@ -1,4 +1,5 @@
-from flask import *
+from flask 
+import boto1
 
 app = Flask(__name__)
 
